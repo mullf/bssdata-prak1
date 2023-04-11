@@ -1,6 +1,6 @@
 # Tugas-Basis-Data
 
-1. Buat sebuah database dengan nama latihan2!
+1. Buat sebuah database dengan nama latihan 1!
 ``` 
 CREATE DATABASE latihan1;
 ```
